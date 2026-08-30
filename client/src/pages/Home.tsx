@@ -76,7 +76,7 @@ export default function Home() {
           <i /> FIELD NOTE / 01
         </span>
         <a
-          href="https://github.com/Aviralgit1212/FIELDMATEV3"
+          href="https://github.com/esotericdunce/FieldMate.git"
           target="_blank"
           rel="noreferrer"
         >
@@ -456,11 +456,11 @@ export default function Home() {
             <p className="github-closing">
               The project is open on GitHub:{" "}
               <a
-                href="https://github.com/Aviralgit1212/FIELDMATEV3"
+                href="https://github.com/esotericdunce/FieldMate.git"
                 target="_blank"
                 rel="noreferrer"
               >
-                github.com/Aviralgit1212/FIELDMATEV3
+                github.com/esotericdunce/FieldMate
               </a>
             </p>
           </section>
